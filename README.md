@@ -5,7 +5,9 @@
 ![Vite](https://img.shields.io/badge/vite-4.x-646CFF.svg?logo=vite)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-3178C6.svg?logo=typescript)
 
-A minimal Electron application built with TypeScript and Vite. Perfect for creating robust, type-safe desktop applications with modern development practices.
+A minimal Electron application built with TypeScript and Vite. Perfect for creating lightweight, cross-platform desktop applications with the added benefits of static typing.
+
+**Topics:** `electron` `typescript` `vite` `cross-platform` `desktop-app` `offline-first` `local-storage` `minimal` `type-safety`
 
 ## 📋 Table of Contents
 - [Features](#-features)
@@ -17,13 +19,16 @@ A minimal Electron application built with TypeScript and Vite. Perfect for creat
 
 ## ✨ Features
 
-- 🔄 Hot-reload during development
+- 🔒 Type safety with TypeScript
+- 🔄 Hot Module Replacement (HMR) during development
 - ⚡ Ultra-fast build with Vite bundler
 - 📦 Cross-platform packaging
 - 🧩 Native Node.js integration
-- 🔒 Type safety with TypeScript
+- 💾 Support for offline data storage
 - 🔍 TypeScript linting with ESLint
 - 🎨 Code formatting with Prettier
+- 📝 TypeScript type declarations
+- 📤 Import/export capability for data
 
 ## 🗂️ Project Structure
 
